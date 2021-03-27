@@ -9,19 +9,19 @@ Documentation is required and must have an element of agile methodology.
 So each step of this project will be documented.
 
 Team Members
-1- Muhammad Irfan Afzal (mi3afzal@gmail.com)
+1) Muhammad Irfan Afzal (mi3afzal@gmail.com)
 
 
 
 DevOps has 8 steps as below
-1- Plan
-2- Code
-3- Build
-4- Test
-5- Release
-6- deploy
-7- operate
-8- monitor
+1) Plan
+2) Code
+3) Build
+4) Test
+5) Release
+6) deploy
+7) operate
+8) monitor
 
 
 
